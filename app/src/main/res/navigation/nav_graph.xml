@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.devlife.MainFragment"
+        android:name="com.example.devlife.posts.PostFragment"
         android:label="main_fragment"
-        tools:layout="@layout/main_fragment" />
+        tools:layout="@layout/post_fragment" />
 </navigation>
